@@ -1,1 +1,1 @@
-Front page de la resolución
+#Front page de la resolución
