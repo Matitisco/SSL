@@ -1,8 +1,13 @@
 7.3.1. Secuencia de Pasos
 
-Preprocesador 
+1. Preprocesador 
 
-Escribo el programa hello2.c
+a.Escribo el programa hello2.c
 
 
 "![image](https://user-images.githubusercontent.com/82007207/118595936-b6c59b80-b781-11eb-803c-454cd24ad7a5.png)"
+
+b. Preprocesamiento de hello2.c:
+
+![image](https://user-images.githubusercontent.com/82007207/118596706-1e7be680-b782-11eb-8cba-d9f262fcbb8f.png)
+
