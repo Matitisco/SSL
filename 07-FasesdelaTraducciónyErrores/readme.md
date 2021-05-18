@@ -48,10 +48,13 @@ En este caso no se incluye ningún header por lo que solamente se agregan esas 4
 
 2. Compilación 
 a.	Compilar el resultado y generar hello3.s, no ensamblar.
+
   ![image](https://user-images.githubusercontent.com/82007207/118597364-f8a31180-b782-11eb-9130-c7a533d94d7d.png)
   
 b.	 Corregir sólo los errores, no los warnings, en el nuevo archivo hello4.c y empezar de nuevo, generar hello4.s, no ensamblar.
+
 ![image](https://user-images.githubusercontent.com/82007207/118597428-08baf100-b783-11eb-9643-67b7dae2e4c7.png)
+
 ![image](https://user-images.githubusercontent.com/82007207/118597433-0b1d4b00-b783-11eb-88ec-a0ae124b4a20.png)
 
 c.	Leer hello4.s, investigar sobre lenguaje ensamblador,e indicar de forma sintética cuál es el objetivo de ese código
@@ -68,6 +71,7 @@ Por lo que probé cambiando el prontf por printf, ya que al estar definida la fu
 Después lo pude ensamblar pero usando hello4.i
 
 ![image](https://user-images.githubusercontent.com/82007207/118597638-53d50400-b783-11eb-8d56-e41f1e1fc390.png)
+
 ![image](https://user-images.githubusercontent.com/82007207/118597650-56375e00-b783-11eb-9718-2103d689f764.png)
 
 3. Vinculación
@@ -82,11 +86,13 @@ b.	 Corregir en hello5.c y generar el ejecutable. Solo corregir lo necesario par
 Intente generar el ejecutable de estas formas pero no funciono
 
 ![image](https://user-images.githubusercontent.com/82007207/118597751-82eb7580-b783-11eb-8106-740ba75a988a.png)
+
 ![image](https://user-images.githubusercontent.com/82007207/118597767-88e15680-b783-11eb-8250-67b68e7a7e51.png)
 
 Así que tuve que generarlo desde el .i 
 
 ![image](https://user-images.githubusercontent.com/82007207/118597807-9696dc00-b783-11eb-8eeb-2a824ca1f284.png)
+
 ![image](https://user-images.githubusercontent.com/82007207/118597817-9991cc80-b783-11eb-908d-1f4909ded05f.png)
 
 c.	 Ejecutar y analizar el resultado.
@@ -95,7 +101,9 @@ Al iniciar el ejecutable no se me abría.
 
 4. Corrección de Bug
 a.	 Corregir en hello6.c y empezar de nuevo; verificar que funciona como se espera. 
+
 ![image](https://user-images.githubusercontent.com/82007207/118597893-bb8b4f00-b783-11eb-9ea7-ff13e0803138.png)
+
 Pude corregirlo agregando system(“pause”);
 
 5.  Remoción de prototipo
