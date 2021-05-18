@@ -104,12 +104,15 @@ a.	 Corregir en hello6.c y empezar de nuevo; verificar que funciona como se espe
 
 ![image](https://user-images.githubusercontent.com/82007207/118597893-bb8b4f00-b783-11eb-9ea7-ff13e0803138.png)
 
+
 Pude corregirlo agregando system(“pause”);
 
 5.  Remoción de prototipo
 
 a.	 Escribir hello7.c, una nueva variante:
+
 ![image](https://user-images.githubusercontent.com/82007207/118597951-ccd45b80-b783-11eb-983c-9704cceea60a.png)
+
 ![image](https://user-images.githubusercontent.com/82007207/118597968-d1007900-b783-11eb-85d6-46ac58b7eab3.png)
 
 b.	Explicar porqué funciona.
